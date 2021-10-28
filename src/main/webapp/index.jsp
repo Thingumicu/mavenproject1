@@ -3,4 +3,5 @@
 
 <t:pageTemplate pageTitle="Parking Lot">
     <h1>Welcome to the Parking Lot</h1>
+    <li>item</li>
 </t:pageTemplate>
